@@ -8,14 +8,14 @@ In order for the project to be considered "completed", it must complete the foll
 
 ### Git Repository Management
 
-1. **< Initial Setup >:** Initialize a Git repository, create a README.md file, and commit it with a meaningful message.
-2. **< Branching and Merging >:** Create a feature branch, make changes, and merge it into the main branch.
-3. **< Conflict Resolution >:** Introduce a conflict, resolve it, and commit the resolution.
+1. **Initial Setup:** Initialize a Git repository, create a README.md file, and commit it with a meaningful message.
+2. **Branching and Merging:** Create a feature branch, make changes, and merge it into the main branch.
+3. **Conflict Resolution:** Introduce a conflict, resolve it, and commit the resolution.
 
 ### Collaborative Development
 
-1. **< Forking and Cloning >:** Fork a provided repository, clone it to your local machine, and configure the upstream remote.
-2. **< Pull Requests >:** Submit a pull request from your feature branch to the main branch of the original repository.
+1. **Forking and Cloning:** Fork a provided repository, clone it to your local machine, and configure the upstream remote.
+2. **Pull Requests:** Submit a pull request from your feature branch to the main branch of the original repository.
 
 ## Submission
 

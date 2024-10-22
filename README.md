@@ -1,19 +1,25 @@
-# < SKILL > Level 3
+# Git Level 3
 
-In this challenge you will build an app using < skill > that ... to demonstrate your skills in < skill >.
-
+In this challenge, you will demonstrate advanced Git skills by managing a collaborative project, resolving conflicts, and maintaining a clean repository history.
 
 ## Requirements
 
 In order for the project to be considered "completed", it must complete the following requirements:
 
-1. **< Req 1 Name >:** fetches data from an API and renders the results in a table with paging
-2. **< Req 2 Name >:** uses `useState()` and `useEffect()` to manage variable changes and accessing API
-3. **< Req 3 Name >:** hides all API Keys and secrets in a `.env` file and uses a `.gitignore` to prevent all unneccessary files from being added to the GitHub Repository
+### Git Repository Management
+
+1. **< Initial Setup >:** Initialize a Git repository, create a README.md file, and commit it with a meaningful message.
+2. **< Branching and Merging >:** Create a feature branch, make changes, and merge it into the main branch.
+3. **< Conflict Resolution >:** Introduce a conflict, resolve it, and commit the resolution.
+
+### Collaborative Development
+
+1. **< Forking and Cloning >:** Fork a provided repository, clone it to your local machine, and configure the upstream remote.
+2. **< Pull Requests >:** Submit a pull request from your feature branch to the main branch of the original repository.
 
 ## Submission
 
-All code must be submitted as a [PR (pull request)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request) following the PR template that will autogenerate when a PR is made
+You will submit two repositories: one that you create on your own and another that you fork from a provided repository. After completeing parts 1 & 2, you will submit a link to your repository in this google form (insert link). After completeing assignment 3 and creating a [PR (pull request)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request), you will submit the link to the forked repository in this google form (insert link).
 
 It may take Learning Ambassadors up to 1-2 weeks to grade your solution and give any feedback/badges associated with this challenge. However, if it takes longer than 2 weeks, please send an email to sparkttl@bu.edu.
 

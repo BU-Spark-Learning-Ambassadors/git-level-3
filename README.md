@@ -1,6 +1,6 @@
 # Git Level 3
 
-In this challenge, you will demonstrate advanced Git skills by managing a collaborative project, resolving conflicts, and maintaining a clean repository history.
+In this challenge, you will demonstrate advanced Git skills by managing a collaborative project, resolving conflicts, and maintaining a clean repository history. Follow the instructions found in the repository to complete this level.
 
 ## Requirements
 

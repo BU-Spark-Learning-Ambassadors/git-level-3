@@ -19,7 +19,7 @@ In order for the project to be considered "completed", it must complete the foll
 
 ## Submission
 
-You will submit two repositories: one that you create on your own and another that you fork from a provided repository. After completeing parts 1 & 2, you will submit a link to your repository in this [google form](https://forms.gle/rvMNW9AyHhNZrEYBA). After completeing assignment 3 and creating a [PR (pull request)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request), you will submit the link to the forked repository in this google form (insert link).
+After completeing assignment 3, you are expected to create a [PR (pull request)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request#creating-the-pull-request). Once this is completed, you will follow this [template](https://github.com/hajiix/git-level3/issues/1) to create an Issue in this Git Level 3 repo.
 
 It may take Learning Ambassadors up to 1-2 weeks to grade your solution and give any feedback/badges associated with this challenge. However, if it takes longer than 2 weeks, please send an email to sparkttl@bu.edu.
 
